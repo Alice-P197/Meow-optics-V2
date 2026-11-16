@@ -6,18 +6,20 @@
 
 ## 下载
 
-最新版本在 Releases 页面发布，包含两个文件：
+客户端安装包统一在 Alice-P197/meow-optics 的 Releases 发布，服务端安装包在本仓库 Releases 发布：
 
 | 文件 | 说明 | 版本 |
 | --- | --- | --- |
 | `MeowOptics-v151-test64.apk` | Android 客户端，Android 8.0 及以上 | versionCode 152 / 2.0.0-test.64 |
 | `Guangyu-Server.exe` | 光屿服务端，Windows 免安装便携版 | 随包发布 |
 
-下载地址：https://github.com/Alice-P197/Meow-optics-V2/releases/latest
+客户端下载页：https://github.com/Alice-P197/meow-optics/releases
+
+服务端下载页：https://github.com/Alice-P197/Meow-optics-V2/releases
 
 直链：
 
-- 客户端：https://github.com/Alice-P197/Meow-optics-V2/releases/download/v151-test64/MeowOptics-v151-test64.apk
+- 客户端：https://github.com/Alice-P197/meow-optics/releases/download/v151-test64/MeowOptics-v151-test64.apk
 - 服务端：https://github.com/Alice-P197/Meow-optics-V2/releases/download/v151-test64/Guangyu-Server.exe
 
 ## 安装
@@ -28,7 +30,7 @@
 2. 首次启动允许通知与文件访问权限。
 3. 连接服务端两种方式：同一局域网自动发现，或在设置中手动填服务端地址。
 
-签名指纹（SHA-256）：`56222efc627b6e9f475bd4bd3940d168b202e9ae4123676e042e9736d149f151`
+签名与上一版一致，已安装旧版本时可直接覆盖，无需卸载。
 
 ### 光屿服务端
 
