@@ -13,12 +13,12 @@
 | `MeowOptics-v151-test64.apk` | Android 客户端，Android 8.0 及以上 | versionCode 152 / 2.0.0-test.64 |
 | `Guangyu-Server.exe` | 光屿服务端，Windows 免安装便携版 | 随包发布 |
 
-下载地址：https://github.com/Alice-P197/optics-bible/releases/latest
+下载地址：https://github.com/Alice-P197/Meow-optics-V2/releases/latest
 
 直链：
 
-- 客户端：https://github.com/Alice-P197/optics-bible/releases/download/v151-test64/MeowOptics-v151-test64.apk
-- 服务端：https://github.com/Alice-P197/optics-bible/releases/download/v151-test64/Guangyu-Server.exe
+- 客户端：https://github.com/Alice-P197/Meow-optics-V2/releases/download/v151-test64/MeowOptics-v151-test64.apk
+- 服务端：https://github.com/Alice-P197/Meow-optics-V2/releases/download/v151-test64/Guangyu-Server.exe
 
 ## 安装
 
