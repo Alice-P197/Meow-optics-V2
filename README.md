@@ -11,9 +11,14 @@
 | 文件 | 说明 | 版本 |
 | --- | --- | --- |
 | `MeowOptics-v151-test64.apk` | Android 客户端，Android 8.0 及以上 | versionCode 152 / 2.0.0-test.64 |
-| `光屿服务端.exe` | Windows 服务端，免安装，双击启动 | 便携版 |
+| `Guangyu-Server.exe` | 光屿服务端，Windows 免安装便携版 | 随包发布 |
 
 下载地址：https://github.com/Alice-P197/optics-bible/releases/latest
+
+直链：
+
+- 客户端：https://github.com/Alice-P197/optics-bible/releases/download/v151-test64/MeowOptics-v151-test64.apk
+- 服务端：https://github.com/Alice-P197/optics-bible/releases/download/v151-test64/Guangyu-Server.exe
 
 ## 安装
 
@@ -27,7 +32,7 @@
 
 ### 光屿服务端
 
-1. 解压后双击 `光屿服务端.exe`。
+1. 解压后双击 `Guangyu-Server.exe`（光屿服务端）。
 2. 启动后监听三个端口：`8790` HTTP 网关、`8793` Python 后端、`8791` UDP 局域网发现。
 3. 手机与服务端在同一网络时自动发现；跨网络需在客户端手动填写服务端地址，并在防火墙放行上述端口。
 
